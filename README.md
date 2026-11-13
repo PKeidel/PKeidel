@@ -7,7 +7,7 @@
 
 ## Screenshot gallery
 
-Public projects; screenshots are shown where a real run could be captured.
+Public projects; images are real screenshots or the project's own documentation images, as captioned.
 
 <table>
 <tr>
@@ -17,13 +17,13 @@ Reads a database and creates the migrations, models, controllers and blades for 
 </td>
 <td width="280" valign="top">
 <a href="https://github.com/PKeidel/goargs"><b>goargs</b></a> &middot; Go<br>
-Opinionated argument parser for go<br>
-<a href="https://github.com/PKeidel/goargs"><img src="gallery/goargs-1.png" width="260" alt="goargs: terminal output of the example (rendered as an image)"></a><br>
-<sub>terminal output of the example (rendered as an image)</sub>
+Opinionated argument parser for go
 </td>
 <td width="280" valign="top">
 <a href="https://github.com/PKeidel/byteanalyzer"><b>byteanalyzer</b></a> &middot; Vue<br>
-Analyze bytestreams like network packages captured by wireshark
+Analyze bytestreams like network packages captured by wireshark<br>
+<a href="https://github.com/PKeidel/byteanalyzer"><img src="gallery/byteanalyzer-1.jpg" width="260" alt="byteanalyzer: image from the repo's docs (doc/img/byteanalyzer.jpg)"></a><br>
+<sub>image from the repo's docs (doc/img/byteanalyzer.jpg)</sub>
 </td>
 </tr>
 <tr>
