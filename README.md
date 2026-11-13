@@ -5,9 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PKeidel&theme=tokyonight&count_private=true&show_icons=true&layout=compact&custom_title=Top%20Languages%20of%20PKeidel&hide_border=true" width=450px alt="Top Languages"/>
 </div>
 
-## Screenshot gallery
-
-Public projects; images are real screenshots or the project's own documentation images, as captioned.
+## My Projects
 
 <table>
 <tr>
